@@ -37,3 +37,9 @@ body {
   }
 
 }
+
+/* logo tamaño */
+.img_size{
+  width: 185px;
+  height: 35px;
+}
